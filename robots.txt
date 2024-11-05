@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uticiuza.github.io/YdF/sitemap_index.txt
+Sitemap: https://uticiuza.github.io/bKd/sitemap_index.txt
+Sitemap: https://uticiuza.github.io/nxF/sitemap_index.txt
+Sitemap: https://uticiuza.github.io/rNW/sitemap_index.txt
